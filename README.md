@@ -1,5 +1,20 @@
-This is an edit of qb-bankrobbery
+# QB bankrobbery
+* Made by DVs Creations
+* discord.gg/shadowops
 
-It adds the need to retrieve an electronickit from the thermite minigame on the back/sides of the feeca banks
 
-This is running with ps-dispatch and ps-ui 
+# Description
+*Simple edit of qb-bankrobbies. It adds a thermite minigame around the back/sides of fleecas to retreive the electronic kit needed for hacking the inside to open the vaults
+
+
+# Dependencies
+ps-dispatch (https://github.com/Project-Sloth/ps-dispatch)
+ps-ui (https://github.com/Project-Sloth/ps-ui)
+ox_lib (https://github.com/overextended/ox_lib)
+
+# Installation
+* Add `qb-bankrobbies' to qb folder
+* add ps-dispatch and ps-ui into scripts or other folder
+* add ox_lib to resources
+* ensure resources
+
