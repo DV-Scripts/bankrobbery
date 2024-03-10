@@ -1,6 +1,6 @@
 # QB bankrobbery
 * Made by DVs Creations
-* discord.gg/shadowops
+* need help? https://discord.gg/JFTcB5JQXG
 
 
 # Description
