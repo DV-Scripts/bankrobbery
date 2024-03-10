@@ -4,7 +4,7 @@
 
 
 # Description
-*Simple edit of qb-bankrobbies. It adds a thermite minigame around the back/sides of fleecas to retreive the electronic kit needed for hacking the inside to open the vaults
+* Simple edit of qb-bankrobbies. It adds a thermite minigame around the back/sides of fleecas to retreive the electronic kit needed for hacking the inside to open the vaults
 
 
 # Dependencies
