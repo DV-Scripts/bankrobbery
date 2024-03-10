@@ -8,9 +8,10 @@
 
 
 # Dependencies
-ps-dispatch (https://github.com/Project-Sloth/ps-dispatch)
-ps-ui (https://github.com/Project-Sloth/ps-ui)
-ox_lib (https://github.com/overextended/ox_lib)
+* ps-dispatch (https://github.com/Project-Sloth/ps-dispatch)
+* ps-ui (https://github.com/Project-Sloth/ps-ui)
+* ox_lib (https://github.com/overextended/ox_lib)
+
 
 # Installation
 * Add `qb-bankrobbies' to qb folder
