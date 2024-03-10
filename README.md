@@ -4,7 +4,7 @@
 
 
 # Description
-* Simple edit of qb-bankrobbies. It adds a thermite minigame around the back/sides of fleecas to retreive the electronic kit needed for hacking the inside to open the vaults
+* Simple edit of qb-Bankrobbery. It adds a thermite minigame around the back/sides of fleecas to retreive the electronic kit needed for hacking the inside to open the vaults
 
 
 # Dependencies
@@ -15,7 +15,7 @@
 
 # Installation
 * Add `qb-bankrobbies' to qb folder
-* add ps-dispatch and ps-ui into scripts or other folder
-* add ox_lib to resources
-* ensure resources
+* Add ps-dispatch and ps-ui into scripts or other folder
+* Add ox_lib to resources
+* Ensure resources
 
